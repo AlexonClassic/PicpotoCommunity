@@ -2,7 +2,7 @@
 * Coin Name : Picpoto Coin(proposal : Picture, Photo, and Drawing Shop)
 * Ticker : PPO
 * Algorithm : X11
-* Type : POS/Masternode/POW
+* Type : POS/Masternode
 * Masternode Collateral : 2,000 PPO
 * Masternode Reward : 80%~90%
 * Staking Reward : 10%~20%
